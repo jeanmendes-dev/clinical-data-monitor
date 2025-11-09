@@ -42,7 +42,3 @@ A responsive, interactive dashboard for real-time monitoring of clinical trial s
 | **DT** | Interactive HTML tables |
 | **tidyverse** (`dplyr`, `lubridate`, `janitor`) | Data cleaning & transformation |
 | **bslib** + **shinyWidgets** | Modern UI/UX enhancements |
-
----
-
-## 📁 Project Structure
