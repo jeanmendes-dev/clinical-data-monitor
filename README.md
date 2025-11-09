@@ -1,12 +1,10 @@
-# 📊 Clinical Data Monitor
+# 📊 clinical-data-monitor
 
 [![R](https://img.shields.io/badge/R-4.0%2B-blue?logo=r)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-Interactive_Dashboard-brightgreen)](https://shiny.rstudio.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A responsive, interactive dashboard for real-time monitoring of clinical trial safety and operational metrics — built with **R**, **Shiny**, and **Plotly**. Designed for clinical teams, data managers, and pharmacovigilance professionals to quickly identify trends, assess protocol adherence, and prioritize high-risk events.
-
-> ✨ **Fully in English** — ready for international clinical research environments.
 
 ---
 
