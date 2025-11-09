@@ -4,6 +4,8 @@
 [![Shiny](https://img.shields.io/badge/Shiny-Interactive_Dashboard-brightgreen)](https://shiny.rstudio.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+➡️ **See the app in production:** [https://jeanmendes-dev.shinyapps.io/clinical-data-monitor/](https://jeanmendes-dev.shinyapps.io/clinical-data-monitor/)
+
 A responsive, interactive dashboard for real-time monitoring of clinical trial safety and operational metrics — built with **R**, **Shiny**, and **Plotly**. Designed for clinical teams, data managers, and pharmacovigilance professionals to quickly identify trends, assess protocol adherence, and prioritize high-risk events.
 
 ---
